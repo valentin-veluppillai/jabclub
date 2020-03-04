@@ -8358,74 +8358,9 @@ h1, h2, h3, h4, h5,
   margin-left: 20px; }
   .navbar-brand span {
     position: relative; }
-    .navbar-brand span:after {
-      position: absolute;
-      top: 50%;
-      left: -7px;
-      -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-      transform: translateY(-50%);
-      content: '';
-      width: 6px;
-      height: 4px;
-      background: var(--primary); }
-    .navbar-brand span:before {
-      position: absolute;
-      top: 50%;
-      right: -7px;
-      -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-      transform: translateY(-50%);
-      content: '';
-      width: 6px;
-      height: 4px;
-      background: var(--primary); }
     .navbar-brand span i {
       position: relative; }
-    .navbar-brand span i.left-bar:after {
-      position: absolute;
-      top: 50%;
-      left: -11px;
-      -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-      transform: translateY(-50%);
-      content: '';
-      width: 4px;
-      height: 20px;
-      background: var(--primary); }
-    .navbar-brand span i.left-bar:before {
-      position: absolute;
-      top: 50%;
-      left: -16px;
-      -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-      transform: translateY(-50%);
-      content: '';
-      width: 4px;
-      height: 14px;
-      background: var(--primary); }
-    .navbar-brand span i.right-bar:after {
-      position: absolute;
-      top: 50%;
-      right: -11px;
-      -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-      transform: translateY(-50%);
-      content: '';
-      width: 4px;
-      height: 20px;
-      background: var(--primary); }
-    .navbar-brand span i.right-bar:before {
-      position: absolute;
-      top: 50%;
-      right: -16px;
-      -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-      transform: translateY(-50%);
-      content: '';
-      width: 4px;
-      height: 14px;
-      background: var(--primary); }
+    
 
 .owl-carousel {
   position: relative; }
