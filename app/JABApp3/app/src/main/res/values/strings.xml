@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">JABApp</string>
     <string name="tab_text_1">HOME</string>
-    <string name="tab_text_2"></string>
+    <string name="tab_text_2">HAI</string>
     <string name="tab_text_3">PREISE</string>
     <string name="tab_text_4">GALERIE</string>
     <string name="tab_text_5">KONTAKT/ANFAHRT</string>
